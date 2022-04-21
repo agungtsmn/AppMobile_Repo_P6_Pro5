@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P6Pro5</string>
+    <string name="weight">Weight</string>
+    <string name="height">height</string>
+    <string name="btnCalculate">Calculate BMI</string>
+    <string name="bmiW">BMI Weight</string>
+    <string name="bmiH">BMI Height</string>
+    <string name="bmi">BMI :</string>
+    <string name="bmi_calculate">BMI Calculate</string>
+    <string name="calculate">Calculate</string>
+</resources>
